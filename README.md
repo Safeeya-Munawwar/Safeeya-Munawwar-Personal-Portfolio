@@ -23,7 +23,7 @@ Welcome to my **Personal Portfolio**! This portfolio showcases my **skills, proj
 - **🔗 Footer with Social Links:** Quick access to LinkedIn, GitHub, and Email
 - **🎨 Modern UI/UX:** Clean and minimalistic design
 
-🔗 **[Live Portfolio](https://safeeya-munawwar-personal-portfolio-vgq3.vercel.app/)**
+🔗 **[Live Portfolio](https://safeeya-munawwar-personal-portfolio-vhe4.vercel.app/)**
 
 ## 🛠️ Tools & Resources
 
