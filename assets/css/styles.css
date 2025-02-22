@@ -461,8 +461,15 @@ padding-top: 2rem;
 }
 
 /* Style for the download link */
+.download_cv {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
 .download_cv a {
   text-decoration: none; 
+  text-align: center;
 }
 
 .download_cv button {
@@ -480,6 +487,7 @@ padding-top: 2rem;
   display: flex;
   column-gap: 1.25rem;  
   justify-content: center;
+  margin: 0 auto;
 }
 
 .download_cv button:hover {
@@ -1302,6 +1310,11 @@ text-align: center;
   .loader__progress {
     width: 180px;
   }
+
+  .download_cv button {
+    align-items: center;
+    align-self: center;
+  }
 }
 
 /*=============== BREAKPOINTS ===============*/
@@ -1336,6 +1349,10 @@ text-align: center;
   .links__content {
     grid-template-columns: repeat(2, max-content);
   }
+  .download_cv button {
+    align-items: center;
+    align-self: center;
+  }
 }
 
 @media screen and (max-width: 380px) {
@@ -1346,6 +1363,10 @@ text-align: center;
         grid-template-columns: repeat(2, max-content);
         gap: 1.5rem 2rem;
     }
+    .download_cv button {
+      align-items: center;
+      align-self: center;
+    }
 }
 
 @media screen and (min-width: 381px) and (max-width: 767px) {
@@ -1355,6 +1376,10 @@ text-align: center;
     .nav__list {
         grid-template-columns: repeat(3, max-content);
         gap: 2rem;
+    }
+    .download_cv button {
+      align-items: center;
+      align-self: center;
     }
 }
 
@@ -1413,6 +1438,10 @@ text-align: center;
       gap: 2rem;
       justify-content: space-between;
   }
+  .download_cv button {
+    align-items: center;
+    align-self: center;
+  }
 }
 
 @media screen and (min-width: 760px){
@@ -1468,6 +1497,10 @@ text-align: center;
   .links__content {
       grid-template-columns: repeat(5, max-content);
       gap: 2.5rem;
+  }
+  .download_cv button {
+    align-items: center;
+    align-self: center;
   }
 }
 
@@ -1529,6 +1562,10 @@ text-align: center;
   }
   .show_scroll{
       bottom: 5rem;
+  }
+  .download_cv button {
+    align-items: center;
+    align-self: center;
   }
   /* ? background header */
   .bg_header{
@@ -1697,5 +1734,9 @@ text-align: center;
   }
   .footer_copy{
       margin-top: 5rem;
+  }
+  .download_cv button {
+    align-items: center;
+    align-self: center;
   }
 }
