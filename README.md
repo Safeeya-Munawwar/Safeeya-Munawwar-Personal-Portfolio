@@ -40,17 +40,24 @@ Welcome to my **Personal Portfolio**! This portfolio showcases my **skills, proj
 - Performance optimization
 - Mobile-first design
 
-## 📝 Contact Information
-
-For any inquiries, feel free to reach out:
-
-- 📧 [Email](mailto:shafiyasha0036@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/safeeya-munawwar)
-- 💻 [GitHub](https://github.com/Safeeya-Munawwar)
+## 🚀 Author
+ **Safeeya Munawwar**
+ <p>
+  <a href="https://www.linkedin.com/in/safeeya-munawwar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Safeeya-Munawwar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:shafiyasha0036@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://safeeya-munawwar-personal-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Author
-[Safeeya Munawwar](https://github.com/Safeeya-Munawwar)
+© 2025 Personal Portfolio | Built with ❤️ using HTML5, CSS3, JavaScript
 
-**© 2025 Safeeya Munawwar | All Rights Reserved** 🚀
